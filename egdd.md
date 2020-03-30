@@ -2,7 +2,7 @@
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+You are a warrior in a dangerous world with enemies abound. You will use your typing knowledge to traverse each battlefield and deliver a multitude of attacks and defenses to your enemies to emerge victorious or perish along the way.
 
 ## Influences (Brief)
 
@@ -18,12 +18,11 @@
 
 ## Core Gameplay Mechanics (Brief)
 
-*Give a very high-level description of any core gameplay mechanics*
-
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Move around the battlefield by typing in a command to do so. e.g. "move forward", "step back", "dodge left"
+- Perform various attacks and defences with typing commands such as "swing right hand", "cast fireball", "block left swing"
+- A mistype causes the type input to stop, the letter you messed up on turns red, and you can't type another command for a brief moment
+- Whenever the enemy uses a command, you have a short indicated timeframe to react to their command. e.g. enemy: "swing left hand" player: "block left swing"
+- Defeating an enemy gives you gold. Gold can be used to buy equipment,spells, and upgrades at the shop.
 
 # Learning Aspects
 
@@ -51,14 +50,14 @@ Our taget audience would be anyone who wants to improve their typing skills, ran
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Prior to the game, players need to have basic knowledge of the keyboard keys layout.
+- Prior to the game, players need to be able to spell simple words such as "move", "swing", "cast", etc.
+
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+A pre-test that assesses the current speed and accuracy of the learners typing, followed by a post-test to measure improvements of the learner.
+- You could use existing tools such as typingtest.com to assess the learners typing skills pre and post gameplay.
 
 # What sets this project apart?
 
