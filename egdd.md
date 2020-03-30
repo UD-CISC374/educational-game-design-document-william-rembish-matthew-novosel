@@ -154,9 +154,9 @@ The goal of the game is to be somewhat challenging so that the player is actuall
   - Player/Fighter: choose from different sprites presented as options when a new game is started.
   - Enemy: randomly selects enemy sprites from a list of different classic fantasy enemy sprites.
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - Spell textures
+  - Attack textures
+  - Damage textures (display when you or the enemy is hit over the sprite of who is hit)
 - Environment Art/Textures:
   - shop background: a background with shop aspects to it. Like a shopkeeper, a register, some items on display
   - Combat location to fight enemies
