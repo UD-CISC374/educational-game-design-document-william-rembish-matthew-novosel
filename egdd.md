@@ -76,13 +76,12 @@ This is a game primarily for one person, although there might be an optional pvp
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- Defeat Enemies
+    - Description: properly type in commands to attack, move, and defend to decrease the enemies hp to 0 and keep your hp as high as possible.
+    - Alignment: this in turn leads to an ability to type faster and more accurately as you continuously type in commands to accomplish this objective.
+- React Accordingly to enemy movements
+    - Description: react before the timer runs out to enemy actions displayed on the screen.
+    - Alignment: The timer and need to interpret what to do in each situation combined with having to also type out the command you want to use creates a need to be able to type faster in order to properly defend yourself and successfully attack the enemy.
 
 # Procedures/Actions
 
