@@ -85,15 +85,28 @@ This is a game primarily for one person, although there might be an optional pvp
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+The game constantly listens for keyboard input from the player. The player types in the commands they want to perform, and if they type in a character in the command that doesn't match any of the possible commands the game stops them, indicates the character they typed in that was wrong, and prevents them from typing for a short timeframe.
+
+When not in combat with an enemy you can either click to continue to a new enemy or click the shop to open up the shop menu where you can click what upgrades you want. If you have enough gold the action gives you the upgrade, otherwise it tells you that you don't have enough gold.
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+- If the player mistypes a character in a command they are entering, the game displays the character as red and stops them from typing for a short timeframe.
+- If the player types in a complete correct command, or hits enter to submit the command and it is a valid command, the proper action is performed.
+- When an enemy performs an action the game indicates what that action is and a timer indicating the timeframe the player has to type in a reaction command.
+- over time, enemies become harder. This means the following
+  - the enemy has more health
+  - the enemy does more damage
+  - the player has less time to react to enemy actions
+  - enemies will use better equipment and abilities
+- better skills and weapons require more typing. e.g. if the player gets a steel sword, "swing right hand" would not use the sword to attack. instead the player has to type "swing steel sword right hand"
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- Player character that has hp, defense, strength, mana points, an inventory, and ability/spell list
+- Shop that is stocked with a list of upgrades the player can buy
+- Upgrades that are in the shops that have a price, various stat boosts, commands associated with them
+- enemies that have hp, defense, strength, mana points, inventory, and ability/spell list
 
 ## Core Gameplay Mechanics (Detailed)
 
