@@ -6,15 +6,15 @@ You are a warrior in a dangerous world with enemies abound. You will use your ty
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Typing of the Dead
+  - Medium: Game
+  - Explanation: Typing of the Dead uses typing in words to attack enemies. This game also uses the concept of typing to control the game and interact with enemies in different ways.
+- For Honor
+  - Medium: Game
+  - Explanation: In For Honor, attack and block directions are very important. You need to match the direction of the opponents attack in order to successfully block said attack. This is the basis of the idea of being able to react to an enemies attack with the correct directional block.
+- Final Fantasy
+  - Medium: Game
+  - Explanation: Final Fantasy has a medieval, fantasy style to the game and allows you to use money you get from defeating enemies to purchase equipment and spells. In our game, you are a medieval warrior who is able to collect money for equipment and spells by defeating enemies.
 
 ## Core Gameplay Mechanics (Brief)
 
@@ -42,9 +42,8 @@ Our taget audience would be anyone who wants to improve their typing skills, ran
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- By the end of the lesson, players will be able to 
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- By the end of the lesson, players will be able to maximize their WPM(Words Per Minute) when typing.
+- By the end of the lesson, players will be able to create documents of text rapidly and accurately when typing.
 
 ## Prerequisite Knowledge
 
@@ -71,8 +70,6 @@ A pre-test that assesses the current speed and accuracy of the learners typing, 
 This is a game primarily for one person, although there might be an optional pvp mode where you can fight another player. The player types in different commands to interact with the worldspace and the other actors in said worldspace.
 
 ## Player Modes
-
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
 - Single-player: You battle progressively harder enemies where the player has lower reaction timers the more enemies you beat. You can upgrade your equipment and abilities at the shop with gold earned by defeating enemies.
 - PVP: Play against a friend, where the reaction timers are set to a reasonably short time and you both have equivalent items and abilities. See who is the best typer between the two of you.
