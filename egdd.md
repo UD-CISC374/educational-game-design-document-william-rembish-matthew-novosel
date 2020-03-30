@@ -176,10 +176,16 @@ A player is sent out on a quest, along the way they have to defeat enemies and b
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
+- Music List (Ambient Sound)
+  - Shop Music: Elevator type music similar to the shop music in games like final fantasy and the legend of zelda
+  - Battle Music: Something similar to any of the battle music in final fantasy
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
-
+  - walking sound
+  - attack sound
+  - block sound
+  - magic sound
+  - typing mistake sound
+  - shop purchase sound
 
 # Metadata
 
