@@ -42,7 +42,7 @@ Our taget audience would be anyone who wants to improve their typing skills, ran
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
+- By the end of the lesson, players will be able to 
 - *Short Name*: *Formal Learning Objective #2*
 - *Short Name*: *Formal Learning Objective #3*
 
@@ -61,27 +61,21 @@ A pre-test that assesses the current speed and accuracy of the learners typing, 
 
 # What sets this project apart?
 
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- Most, if not all, games out there that try to teach typing skills involve typing some word that appears on the screen to perform attacks, wheras our game has the player typing in commands to perform actions relevant to those commands. 
+- The gameplay mechanics are more naturally interconnected with the learning mechanics because you are not simply typing random words that appear on the screen that are irrelevent to what you are doing, the words are relavent to what is going on in the actual game.
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This is a game primarily for one person, although there might be an optional pvp mode where you can fight another player. The player types in different commands to interact with the worldspace and the other actors in said worldspace.
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- Single-player: You battle progressively harder enemies where the player has lower reaction timers the more enemies you beat. You can upgrade your equipment and abilities at the shop with gold earned by defeating enemies.
+- PVP: Play against a friend, where the reaction timers are set to a reasonably short time and you both have equivalent items and abilities. See who is the best typer between the two of you.
 
 # Gameplay Objectives
 
