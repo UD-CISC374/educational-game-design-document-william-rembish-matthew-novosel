@@ -110,30 +110,34 @@ When not in combat with an enemy you can either click to continue to a new enemy
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Type based movements:
+       If the player needs to move, they need to type out where they want to move. If the player wants to attack they
+       have to type it out. Everything that the player does has to be typed out.
+- Purchasing Equipment
+        Over time the player will accumulate coins, coins can be used to purchase better equipment, whether it is a weapon,
+        armor, or spells.
 - *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
 
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
+Progress is shown through visually showing the player when something is mistyped by making the character glow red. 
+It is also shown by showing the player that they typed the correct command by the player doing what the player typed.
 
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+We will keep a player stat that shows how fast the player can type based off of WPM, The player can see progress in the long term learning objective by seeing their words per minute increase over time.
 
 # Story and Gameplay
 
 ## Presentation of Rules
-
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
-
+-There will be a short tutorial where the player can test moving around using the simple moves that are given.
+-The game will allow the player to learn of the penalties that happen when you mistype commands
 ## Presentation of Content
-
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+The material being taught is the game itself, just by playing the game the player has practice typing and become better typers. The words gradually get longer so the player gets more intesive learning the more they play.
 
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
+A player is sent out on a quest, along the way they have to defeat enemies and become stronger. The enemies become stronger the closer the player gets to the goal the harder the enemies get and the better the player needs to be. There are various ways the player can fight whether it is spells, swords, or just their bodies.
 
 ## Storyboarding
 
