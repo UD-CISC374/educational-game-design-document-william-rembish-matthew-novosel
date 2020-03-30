@@ -158,10 +158,10 @@ The goal of the game is to be somewhat challenging so that the player is actuall
   - *Texture 2*
   - *...*
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
-
+  - shop background
+  - arena
+  - forest
+  - field
 
 ## Audio
 
