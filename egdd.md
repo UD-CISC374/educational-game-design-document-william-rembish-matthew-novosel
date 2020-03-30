@@ -1,4 +1,4 @@
-# Game Name
+# Type Warriors: Unleashed
 
 ## Elevator Pitch
 
@@ -29,15 +29,15 @@
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Typing speed and accuracy
 
 ## Target Audiences
 
-*Who are your learners?*
+Our taget audience would be anyone who wants to improve their typing skills, ranging from k-12 students to adults who haven't really developed their typing skills. The mild violence would probably not make it recommended for younger kids.
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+- This would be a good assignment for typing classes as a homework assignment or possibly classwork assignment.
 
 ## Learning Objectives
 
