@@ -141,7 +141,9 @@ A player is sent out on a quest, along the way they have to defeat enemies and b
 ## Storyboarding
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
-
+![](StoryBoard1.jpg)
+![](StoryBoard2.jpg)
+![](StoryBoard3.jpg)
 # Assets Needed
 
 ## Aethestics
