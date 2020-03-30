@@ -168,15 +168,15 @@ The goal of the game is to be somewhat challenging so that the player is actuall
 
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
-- Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+- Music List (Ambient Sound)
+  - Shop Music: Elevator type music similar to the shop music in games like final fantasy and the legend of zelda
+  - Battle Music: Something similar to any of the battle music in final fantasy
   
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
-
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - block sound
+  - magic sound
+  - typing mistake sound
+  - shop purchase sound
 
 
 # Metadata
