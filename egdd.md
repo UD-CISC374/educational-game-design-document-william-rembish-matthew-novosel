@@ -151,17 +151,18 @@ The goal of the game is to be somewhat challenging so that the player is actuall
 ## Graphical
 
 - Characters List
-  - Player/Fighter
-  - Enemy
+  - Player/Fighter: choose from different sprites presented as options when a new game is started.
+  - Enemy: randomly selects enemy sprites from a list of different classic fantasy enemy sprites.
 - Textures:
   - *Texture 1*
   - *Texture 2*
   - *...*
 - Environment Art/Textures:
-  - shop background
-  - arena
-  - forest
-  - field
+  - shop background: a background with shop aspects to it. Like a shopkeeper, a register, some items on display
+  - Combat location to fight enemies
+    - Arena
+    - forest
+    - field
 
 ## Audio
 
