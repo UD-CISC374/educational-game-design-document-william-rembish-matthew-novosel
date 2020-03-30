@@ -113,7 +113,7 @@ When not in combat with an enemy you can either click to continue to a new enemy
 - Type based movements:
        If the player needs to move, they need to type out where they want to move. If the player wants to attack they
        have to type it out. Everything that the player does has to be typed out.
-- Purchasing Equipment
+- Purchasing Equipment: 
         Over time the player will accumulate coins, coins can be used to purchase better equipment, whether it is a weapon,
         armor, or spells.
 - *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
@@ -146,15 +146,13 @@ A player is sent out on a quest, along the way they have to defeat enemies and b
 # Assets Needed
 
 ## Aethestics
-
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+The goal of the game is to be somewhat challenging so that the player is actually engaged and focused on the game. There will be music that will be somewhat intense in order to motivate the player. The graphics will most likely vary but will more or less gradually go from bright and lighthearted in the beginning, to darker and more intense as the game progresses.
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - Player/Fighter
+  - Enemy
 - Textures:
   - *Texture 1*
   - *Texture 2*
@@ -176,16 +174,10 @@ A player is sent out on a quest, along the way they have to defeat enemies and b
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
-- Music List (Ambient Sound)
-  - Shop Music: Elevator type music similar to the shop music in games like final fantasy and the legend of zelda
-  - Battle Music: Something similar to any of the battle music in final fantasy
 - Sound List (SFX)
-  - walking sound
-  - attack sound
-  - block sound
-  - magic sound
-  - typing mistake sound
-  - shop purchase sound
+  - *Game Interaction*: *Example 1*, *Example 2*
+  - *Game Interaction*: *Example 3*, *Example 4*
+
 
 # Metadata
 
