@@ -136,7 +136,6 @@ The material being taught is the game itself, just by playing the game the playe
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
 A player is sent out on a quest, along the way they have to defeat enemies and become stronger. The enemies become stronger the closer the player gets to the goal the harder the enemies get and the better the player needs to be. There are various ways the player can fight whether it is spells, swords, or just their bodies.
 
 ## Storyboarding
