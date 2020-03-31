@@ -139,8 +139,8 @@ The material being taught is the game itself, just by playing the game the playe
 A player is sent out on a quest, along the way they have to defeat enemies and become stronger. The enemies become stronger the closer the player gets to the goal the harder the enemies get and the better the player needs to be. There are various ways the player can fight whether it is spells, swords, or just their bodies.
 
 ## Storyboarding
+Storyboards:
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 ![](Storyboards/StoryBoard1.jpg)
 ![](Storyboards/StoryBoard2.jpg)
 ![](Storyboards/StoryBoard3.jpg)
